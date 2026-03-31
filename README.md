@@ -1,0 +1,1 @@
+Réplica da interface da Netflix construída com HTML, CSS e JavaScript puro. Inclui seleção de perfise e catálogo de conteúdo. Também inclui funcionalidades como, mudança de tema (Dark ou Light) e prévia da série ou filme ao passar o mouse em cima.
